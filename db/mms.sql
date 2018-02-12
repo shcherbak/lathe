@@ -5,7 +5,7 @@
 -- Dumped from database version 9.6.6
 -- Dumped by pg_dump version 9.6.6
 
--- Started on 2018-02-12 14:19:24 EET
+-- Started on 2018-02-12 14:21:41 EET
 
 SET statement_timeout = 0;
 SET lock_timeout = 0;
@@ -1232,7 +1232,7 @@ CREATE VIEW plpgsql_check_nontriggered AS
 
 ALTER TABLE plpgsql_check_nontriggered OWNER TO postgres;
 
--- Completed on 2018-02-12 14:19:25 EET
+-- Completed on 2018-02-12 14:21:41 EET
 
 --
 -- PostgreSQL database dump complete
